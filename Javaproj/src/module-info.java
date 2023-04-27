@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author TESTING
- *
- */
-module FoodeDeliveryApp {
-}
